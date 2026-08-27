@@ -1,6 +1,10 @@
 <img src="./banner.png" alt="Hi, I'm Patryk Piotrowski" width="100%">
 
-### 💻 Technology Stack
+# Frontend-focused Full-Stack Developer
+
+Building complete web applications with a strong focus on frontend development.
+
+## 💻 Technology Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -18,7 +22,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-### 🛠️ Other Tools
+## 🛠️ Other Tools
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
