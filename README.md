@@ -1,3 +1,5 @@
+<img src="./banner.png" alt="Hi, I'm Patryk Piotrowski" width="100%">
+
 ### 💻 Technology Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
