@@ -1,6 +1,6 @@
 <img src="./banner.png" alt="Hi, I'm Patryk Piotrowski" width="100%">
 
-# Frontend-focused Full-Stack Developer
+# Full-Stack Developer Frontend-focused
 
 Building complete web applications with a strong focus on frontend development.
 
